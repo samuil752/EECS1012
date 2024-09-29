@@ -1,0 +1,73 @@
+/* RVS Coding CSS File */
+/* Group Members: Rohan, Samuil, Victoria */
+/* Student ID: Rohan: 219861764, Samuil:, Victoria: */
+
+.about-us {
+  top: 0%;
+  left: 0%;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+search {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    height: 200px;
+    position: relative;
+    text-align: center;
+    
+  }
+  
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+  }
+  
+  hr {
+    color: red
+  }
+  
+  .about-us{
+    text-align: right;
+    
+  }
+  
+  input {
+    width: 1000px;
+    text-align: center;
+  }
+
+  .search-button {
+    float: inline-end;
+  }
+
+  .list {
+    margin-top: 10px;
+    
+
+  }
+
+  .footer {
+    
+  }
+/* footer {
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+  } */
+
+  
+
+
