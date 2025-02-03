@@ -36,3 +36,13 @@ all requirements:
 	9. You can view the image of a building by clicking on an element in the database
 	10. The system allows the user to reset their search and look up another building
 	11. The system allows the user to search abbreviations/keywords of the building as well if they don't know the full name (on schedules, abbreviations are used instead of full name)
+ ##App screenshots
+ ![image](https://github.com/user-attachments/assets/68175786-5279-432c-9963-eb06dc7f0195)
+ Dynamic search bar
+ ![image](https://github.com/user-attachments/assets/6177c29c-8abd-4f1f-872e-7474f6fdf7cb)
+ See building list
+ ![image](https://github.com/user-attachments/assets/53ca4fd8-29d6-455b-9daa-73c58177b7c0)
+ Example building
+![image](https://github.com/user-attachments/assets/c5936e76-b3b2-40d0-9671-ee401299d95e)
+Showcasing map for location
+
